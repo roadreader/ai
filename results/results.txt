@@ -1,0 +1,2 @@
+Enter Image Path: data/obj/G0114681.jpg: Predicted in 0.246476 seconds.
+pothole: 69%
